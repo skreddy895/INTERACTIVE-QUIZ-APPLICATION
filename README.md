@@ -23,6 +23,6 @@ This task was very helpful for me. It taught me how to make a complete website u
 Overall, I really enjoyed working on this portfolio. It was a great learning experience and gave me more confidence in frontend web development. This kind of project will also be useful for my future career, freelance work, or even as an online resume.
 
 #OUTPUT 
-<img width="1495" height="892" alt="Image" src="https://github.com/user-attachments/assets/25b3cf8a-1aea-4f78-9355-1964df6719c7" />
+<img width="1910" height="716" alt="Image" src="https://github.com/user-attachments/assets/1df581ae-319b-4f37-a77c-8450da9d3f2f" />
 
-<img width="1879" height="917" alt="Image" src="https://github.com/user-attachments/assets/a4b656b2-cbf5-4767-906b-1ee9ec160548" />
+<img width="1912" height="605" alt="Image" src="https://github.com/user-attachments/assets/724cadf5-07c4-4e85-8aca-6dfcf0b80ced" />
